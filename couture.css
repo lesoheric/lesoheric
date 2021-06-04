@@ -1,0 +1,62 @@
+body
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+}
+#reno
+{
+    width: 300px;
+    height: 450px;
+    float: left;
+}
+h1,h2,h3
+{
+    text-align: center;
+    text-decoration: underline;
+}
+.yes
+{
+    width: 800px;
+    position: relative;
+    left: 250px;
+    text-align: center;
+}
+
+div p img 
+{
+    width: 150px;
+    height: 200px;
+}
+span
+{
+    position: relative;
+    left: 400px;
+    text-decoration: underline;
+    font-style: bold;
+}
+footer
+{
+    border: white groove 1px;
+    border-radius: 12px;
+}
+
+
+
+
+img
+{
+    
+    height:150px;
+    border-radius: 12px;
+    width: 100px;
+}
+#luci
+{
+    border: white groove 1px;
+    width: 1300px;
+    border-radius: 12px 0px 12px 0px;
+}
+li
+{
+    text-align: center;
+}
