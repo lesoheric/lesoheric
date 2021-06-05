@@ -158,6 +158,11 @@ footer
     background-color: rgb(24, 24, 72);
     color: white;
 }
+    .yes
+{
+    width: 800px;
+    text-align: center;
+}
 
 
 }
