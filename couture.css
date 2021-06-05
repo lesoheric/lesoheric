@@ -150,6 +150,14 @@ footer
      left: 170px;   
      text-align: center;
 }
+#luci
+{
+    border: white groove 1px;
+    width: 610px;
+    border-radius: 12px 0px 12px 0px;
+    background-color: rgb(24, 24, 72);
+    color: white;
+}
 
 
 }
