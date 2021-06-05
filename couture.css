@@ -163,6 +163,16 @@ footer
     .yes
 {
    width:400px;
+    position:relative;
+    right:400px;
+}
+    h1
+{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.385);
+    border: rgb(100, 79, 79) groove 3px;
+    border-radius: 10px 5px 10px 5px;
+    text-align: center;
 }
 
 
