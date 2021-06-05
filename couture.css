@@ -33,6 +33,8 @@ h1
 {
     width: 800px;
     position: relative;
+      position: relative;
+    right: 400px;
     left: 250px;
     text-align: center;
 }
